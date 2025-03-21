@@ -1,6 +1,6 @@
 # Advanced Neural Network Architecture for Brain Lesion Identification
 
-This repository contains the research paper **“Advanced Neural Network Architecture for Brain Lesion Identification”** by Vaibhav Parihar, Shreya Abraham Varghese, and Dr. Babu S. The paper focuses on leveraging Convolutional Neural Network (CNN) models for rapid and accurate brain tumor (lesion) detection using MRI scans.
+This repository contains the research paper **“Advanced Neural Network Architecture for Brain Lesion Identification”** by Vaibhav Parihar, Shreya Abraham Varghese, and Dr. Babu S(Faculty). The paper focuses on leveraging Convolutional Neural Network (CNN) models for rapid and accurate brain tumor (lesion) detection using MRI scans.
 
 ---
 
