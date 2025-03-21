@@ -64,7 +64,9 @@ This repository contains the research paper **“Advanced Neural Network Archite
 
 - **Primary Authors**:  
   - Vaibhav Parihar (<vaibhavparihar0@gmail.com>)  
-  - Shreya Abraham Varghese (<Sav.shreya02@gmail.com>)  
+  - Shreya Abraham Varghese (<Sav.shreya02@gmail.com>)
+ 
+- Keep Learning :) 
 - **Supervisor**:  
   - Dr. Babu S (<babus@srmist.edu.in>)
 
