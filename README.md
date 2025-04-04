@@ -71,5 +71,3 @@ This repository contains the research paper **“Advanced Neural Network Archite
   - Dr. Babu S (<babus@srmist.edu.in>)
 
 Feel free to open an issue or pull request if you have questions, suggestions, or improvements regarding the methods discussed in this research.
-
----
